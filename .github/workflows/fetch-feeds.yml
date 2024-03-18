@@ -21,7 +21,7 @@ jobs:
           fetch_feed() { curl "${1}" --fail --connect-timeout 10 --max-time 15 --retry 3 --retry-delay 10 --retry-max-time 90 -o "${2}"; }
           
           fetch_feed "https://listed.to/@gabesamu/feed" "./blog.atom"
-          fetch_feed "https://dev.to/feed/gabesamu" "./dev-to.atom"
+          # fetch_feed "https://dev.to/feed/gabesamu" "./dev-to.atom"
           fetch_feed "https://github.com/gabesamu.atom" "./github.atom"
           fetch_feed "https://stackoverflow.com/feeds/user/23629660" "./stackoverflow.atom"
           # fetch_feed "https://reddit.com/user//submitted.rss" "./reddit.atom"
