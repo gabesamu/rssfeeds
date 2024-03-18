@@ -1,0 +1,41 @@
+name: Fetch Rss Feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'
+    
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3.3.0
+        
+      - name: Get Date 📅
+        id: date
+        run: echo "::set-output name=date::$(date +'%d-%b-%Y')"
+                
+      - name: Download Feeds 📬
+        run: |
+          fetch_feed() { curl "${1}" --fail --connect-timeout 10 --max-time 15 --retry 3 --retry-delay 10 --retry-max-time 90 -o "${2}"; }
+          
+          fetch_feed "https://listed.to/@gabesamu/feed" "./blog.atom"
+          fetch_feed "https://dev.to/feed/gabesamu" "./dev-to.atom"
+          fetch_feed "https://github.com/gabesamu.atom" "./github.atom"
+          fetch_feed "https://stackoverflow.com/feeds/user/23629660" "./stackoverflow.atom"
+          # fetch_feed "https://reddit.com/user//submitted.rss" "./reddit.atom"
+
+
+      - name: Commit ✒️
+        run: |
+          git config --local user.email "gabemsamuel@gmail.com"
+          git config --local user.name "gabe-rss-bot"
+          git add .
+          git commit -m "Downloads RSS Feed - Updated on ${{ steps.date.outputs.date }}"
+          
+      - name: Push ⤴️
+        uses: ad-m/github-push-action@master
+        with:
+          github_token:  ${{ github.token }}
+          branch: ${{ github.ref }}
