@@ -4,7 +4,514 @@
   <link type="text/html" rel="alternate" href="https://github.com/gabesamu"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/gabesamu.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2024-03-18T06:47:31Z</updated>
+  <updated>2024-03-19T04:38:10Z</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/36669379153</id>
+    <published>2024-03-19T04:38:10Z</published>
+    <updated>2024-03-19T04:38:10Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/1755f8d882...8a9760c36e"/>
+    <title type="html">gabesamu pushed to main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36669379153,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;645ea01c-c118-4096-aff1-7f8776e3f112&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2097d3f76d8734028450e6743d6754fca9090c5953574a1d3323b293c2e38a28&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T04:38:10Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 04:38&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/8a9760c36e107218f01c349871587806d11925ef&quot; rel=&quot;noreferrer&quot;&gt;8a9760c&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      install adapter-netlify
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/36669269763</id>
+    <published>2024-03-19T04:31:36Z</published>
+    <updated>2024-03-19T04:31:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/77d78961bf...1755f8d882"/>
+    <title type="html">gabesamu pushed to main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36669269763,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;71453072-5ae4-42da-a478-cfce43ddbe48&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;49661f1a0eb94b93a6e2a9289000ad9695d492bb99b031f272a2ea150d2c9e6c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T04:31:36Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 04:31&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/1755f8d882d0e3a7becfeab7162591f7fdb88546&quot; rel=&quot;noreferrer&quot;&gt;1755f8d&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      remove prerender to fix build, will add back later
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/36668857933</id>
+    <published>2024-03-19T04:05:12Z</published>
+    <updated>2024-03-19T04:05:12Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/625f2e043d...77d78961bf"/>
+    <title type="html">gabesamu pushed to main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668857933,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a7e25b78-fb95-4a21-9665-c30a160f2ed0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;54a0b7e7151d788d7651913af60c2af6aa7d5ae96b95a40d557a5308ca276b43&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T04:05:12Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 04:05&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;2 commits to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/77d78961bf648504e10016be0446365a76940397&quot; rel=&quot;noreferrer&quot;&gt;77d7896&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Merge branch &#39;main&#39; of github.com:gabesamu/mywebsite
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/0f9c4652c5fc4b44db8738f4e2e6885b4194e35f&quot; rel=&quot;noreferrer&quot;&gt;0f9c465&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      change website name in config
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/36668611261</id>
+    <published>2024-03-19T03:48:50Z</published>
+    <updated>2024-03-19T03:48:50Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/e265784a9c...625f2e043d"/>
+    <title type="html">gabesamu pushed to main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668611261,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;be02f3b1-a729-4346-b272-7f32f0b9f00f&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3ac5fed6ef4cf4de8a8e6618ef2b6fd77b8229531e13d626bb818abb58419468&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:48:50Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:48&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/625f2e043d1e5ca5c6e9005ac7b758561b7e5917&quot; rel=&quot;noreferrer&quot;&gt;625f2e0&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Create LICENSE
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/36668599120</id>
+    <published>2024-03-19T03:48:00Z</published>
+    <updated>2024-03-19T03:48:00Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/a14c9e6a27...e265784a9c"/>
+    <title type="html">gabesamu pushed to main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668599120,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;aacdf5c3-b2f2-4597-94f7-9375e772992c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ad206823c624d453661279c29987d9e7b5664d132b25cfe3b37de9c489307ab5&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:48:00Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:48&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gabesamu/mywebsite/commit/e265784a9cb573d2e3ece14eb0ac45c35f424924&quot; rel=&quot;noreferrer&quot;&gt;e265784&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Create README.md
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/36668590510</id>
+    <published>2024-03-19T03:47:24Z</published>
+    <updated>2024-03-19T03:47:24Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/main"/>
+    <title type="html">gabesamu created a branch main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668590510,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;aa6ab768-c844-4651-9fc9-7be607d0bf48&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2ae1b5be93b9d8e4954e9f25df5bb3708ef8a41a5e22a74c17f983d19d104693&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+              
+              created a
+              branch
+              in
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:47:24Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:47&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;div class=&quot;d-inline-block&quot;&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;main&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+                  &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Mar 19&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/36668568208</id>
+    <published>2024-03-19T03:45:54Z</published>
+    <updated>2024-03-19T03:45:54Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite//"/>
+    <title type="html">gabesamu created a repository gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162728,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668568208,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;76708a7a-a415-4e34-895f-4564a459cb91&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a29b113f829a0182662f201eac845b682bcb22bb48bfa822907de91323c30a58&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+              
+              created a
+              repository
+              
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:45:54Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:45&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 repo-description&quot;&gt;
+            &lt;p&gt;Source code for my personal website&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Mar 19&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/36668535101</id>
+    <published>2024-03-19T03:43:42Z</published>
+    <updated>2024-03-19T03:43:42Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite/compare/main"/>
+    <title type="html">gabesamu created a branch main in gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162120,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668535101,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f3b608a1-37a5-489b-9f82-39e3fb4e872b&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;c4af09470302495222155272dacc8df3af113aea7e5e358aceaa46180a8a0b2f&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+              
+              created a
+              branch
+              in
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:43:42Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:43&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;div class=&quot;d-inline-block&quot;&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;main&quot; href=&quot;/gabesamu/mywebsite/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+                  &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Mar 19&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/36668535050</id>
+    <published>2024-03-19T03:43:42Z</published>
+    <updated>2024-03-19T03:43:42Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/mywebsite//"/>
+    <title type="html">gabesamu created a repository gabesamu/mywebsite</title>
+    <author>
+      <name>gabesamu</name>
+      <uri>https://github.com/gabesamu</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:774162120,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36668535050,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;182ea66b-c780-4313-911e-7e2d8153e2f9&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;471a7135ac54bf4d7a1e4f93832f08d44d49cc721c86959b9010266fb473f5aa&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
+              
+              created a
+              repository
+              
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-03-19T03:43:42Z&quot; data-view-component=&quot;true&quot;&gt;March 19, 2024 03:43&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/mywebsite&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/mywebsite&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 repo-description&quot;&gt;
+            &lt;p&gt;Source code for my personal website&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Mar 19&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:PushEvent/36632874716</id>
     <published>2024-03-18T06:47:31Z</published>
@@ -16,7 +523,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36632874716,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;61c09a95-66f7-4dcb-a2a2-b13444d6fad5&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;cfa2eeba32f4e459bb94ed37db3261f8d513611b891ab472984c1e91a8e27cd2&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36632874716,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;dc9a0429-3245-490c-b0dc-0ac5dd539929&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;0350d0ad7ea24ce99cdb6af3cf5750da98a223233d05c4b72c9d09a86062a34c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -70,7 +577,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36632794620,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;1342a531-05cc-4377-ba2a-dcafdc517d9e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;15e60d6e5f3033d6213ba3c3c4d29e6c9f89b3528fd5e57179e20d6800a7f283&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36632794620,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;8cbede4d-5e81-4f33-b374-cc6ca3ccfeb0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;49796bb56537bf9af10f37c3d037f4d956b2e302347f09383bdeee3f168a911d&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -124,7 +631,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:561281862,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36530570681,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;8d83f8b9-a978-4aee-b9dc-00fafc6c2d57&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;26aab17de7b8883963778c9a992320b4ba33cdecaa06203eb8c15bac50a018cf&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:561281862,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36530570681,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;fd2273b4-0ced-4e09-bf8e-dfe08648bcdc&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ad5a0f24dd2d8199d57e6f82881a0a2b8b8e0a42bc32af4d59ca70c39c7a263c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- watch --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -165,7 +672,7 @@
               &lt;/span&gt;
 
 
-              &lt;span&gt;Updated Mar 13&lt;/span&gt;
+              &lt;span&gt;Updated Mar 19&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -184,7 +691,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36385488636,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;8bd28d73-689d-4cf0-8047-08188295b322&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;6cb2a1cd01084dd9c0b01f8ecac8074e0e95d826dd2faa0dca7968d914c22880&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36385488636,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;374d6acd-fc46-48cc-aa59-164e2ab5ac2f&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;feb25559fdb9db3aeb3e4c166e5aa3f25e5541db36d250b580843f599ba9d8b1&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -240,7 +747,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36385488465,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;7446f7b4-b525-4386-bc6e-4374034d66c6&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;b785852b99a9a08d43082cb7b4505da93cb0e440c6a8c459ecb3843f1f49afe0&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:769330151,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36385488465,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;fc3a7d50-0b3e-41d7-9033-0c317543138c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;22bb62f7fb29f170342a4cd6689b498fa6da1418bae67f277c22a64508b5ddda&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -297,7 +804,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:636853988,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36178951568,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;c8dcd077-b946-49dc-8c4f-0811a6c1e273&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;f6bebdf43710f3e6b252e6e0f32506dde9dbfd5d92d19aae4c1d9c23ed1f1511&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:636853988,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36178951568,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b58d1269-d3f1-4061-b888-422371cef2cb&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a91dba5ef247cad4dd8950df1a3314b45d7d7050f695eaf7b109aa791e3cf658&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- watch --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -357,7 +864,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:763796434,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36035887824,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;7c9395c0-5d76-4316-a5d5-dc1cb0c1b329&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;df39c456d690072f48bc0a0cc42899a5c38c29f5b94e6d92cfe439ccbd182eb2&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:763796434,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36035887824,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;2a7e5c9e-033e-45b7-a20c-b1b178d2677c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;6e9ab940e2cf7bd5db437758c67324349b6b6da878132888d9e7152496f896bf&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -425,7 +932,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:533628036,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36029972292,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;81750929-c450-430c-a291-d9b05bc240a0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;6fc545848ced00f45df76a1597c5f6ec33e0d6b210adebc7e50f66e43c646d42&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:533628036,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:36029972292,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b2e85f2b-6ad5-448a-b056-372af81c1d5a&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;bbb111183636f4b809e2380373ab30367f380b1a519df7464e0602ff5c701885&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -490,7 +997,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35932676563,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;bbe7bf0f-a60e-432c-9136-67cb1aaca2ee&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;a72db3dfefa82253b874aea8032ca1d65e2384470e4f52cc8a665b9f24ddde07&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35932676563,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;42e93e19-b427-4497-a408-f8c14345d7ab&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;d7db144dfad363b53027f0f317767068d0a3340653bcb8e3d6bc914c152e2530&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -544,7 +1051,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35930427586,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a5e068db-1418-4cf8-923c-aa16b6d559dc&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;05dab860991f286a1798b5a9245bf7b8eb30fbc76325e6fbdfcff7d0e366a649&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35930427586,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f3d08357-f99f-4509-87c7-70040561f2c0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;72d69d6016082263cdff1b50dc9a3d10f0476e3e80f3f8f2e61787aa63262620&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -609,7 +1116,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35929328482,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;eb6d163d-94a1-4b73-bce6-105edfb16660&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;d7b567c2570d96230511f52f9b624468f26608360c9518481390111b3ab63ce4&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:761018240,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35929328482,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;dc835cb8-0262-481b-b3a3-ce227e47274a&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ee6a714c3583e56436d321a12bb3b128f391cde145eb94e38f0601b4334408fa&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -663,7 +1170,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:186024298,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35888553883,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;8fb5baa3-419f-47a7-8968-a7d7c5b0d891&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;def5794659c2e4b93846d97061ab173bc558421ad291160860d42c8532fb3901&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:186024298,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35888553883,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;208ed760-ed34-4e95-ac46-7651ea088c4a&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3c7b3d58464c4c9a111a7d5b2c0875f527f44aa2258c228c746df0dfc20abcfe&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- watch --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -707,7 +1214,7 @@
                 &lt;a class=&quot;Link--muted&quot; href=&quot;/nushell/nushell/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;22 issues need help&lt;/a&gt;
               &lt;/span&gt;
 
-              &lt;span&gt;Updated Mar 18&lt;/span&gt;
+              &lt;span&gt;Updated Mar 19&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -726,7 +1233,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:559785021,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35857183056,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b0f2eed8-1caf-40ef-9d82-90d76a5a6220&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2752b815dc3bca7749d45f6cbb1d2b8a32fefaff9c5d2679784486bc75f8eacd&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:559785021,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35857183056,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;c8b18975-fb04-4685-9332-fd3dc22bc999&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;1a4be9a507ee31d05206a9fde5020000d626599151706dd77235ce3386970117&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -791,7 +1298,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_opened js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:447379217,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PullRequestEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686635967,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;6c300749-64cb-4c6a-94cd-26d7c2718c7c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;9d7bcc606dea732311ac514c94a05fa4d6ac030657c5a75cba727f2e42bee59b&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;issues_opened js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:447379217,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PullRequestEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686635967,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f8add9f9-fcda-4aeb-a82e-e60941d5382c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2492110992043a2e64ecf1a5cfa58bcca2e68fa7c32c422dfb96ce79ca4a0cc9&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- pull_request --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -837,7 +1344,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757745189,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686600726,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;05982cc5-b863-4912-b69e-c12a6d2a9054&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;5d059c83be25576717a7323b874ba85014d3b1748505a348932a858fb45a1b92&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757745189,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686600726,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;46a74148-7629-4a63-98be-4efa2f53b13c&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;3827693d9e23488f8575281991ea410af224667ab62da6c0edafd561d1330d87&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -893,7 +1400,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757745189,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686448918,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;abf8473f-c019-4d6d-9c12-5b18a4b8a5c9&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;5d91dfd82eb888ba4060353d2671841aaa7e268b1e1f05eb00e414f348e0af95&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757745189,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35686448918,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b964c54d-7e9d-442c-8a77-c1bfa621b19b&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;0307265b4d2a6037ca130c9c4942d62e13c6d2d0d95647c4f890aaad90496895&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -949,7 +1456,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:447379217,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685981793,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;12d1f2d8-af01-44d0-b9fd-016ff010c8be&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;5670866231a32944449d38e9b517e5557db086570533c3c3aaaff20f536263a9&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;fork js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:447379217,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;ForkEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685981793,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;90da038e-9952-461c-a2e0-b8e6c4a9165a&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;47a5679dce672aa3229c82b0c26d81a89ed7334225f9fd1835febfad902940ea&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- fork --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -995,7 +1502,7 @@
 &lt;/a&gt;              &lt;/span&gt;
 
 
-              &lt;span&gt;Updated Mar 18&lt;/span&gt;
+              &lt;span&gt;Updated Mar 19&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -1014,7 +1521,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685437655,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;a02b4da7-dae2-4882-9acb-643b3a90f74e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;c0523922648f3056e8d5a6aa4d75e89318bc832d9edb4ed4b5aaa0e40b7a5622&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685437655,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;2515ccc8-cb57-43b8-ad87-4a5e88ea290e&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2f44ada0a9ba6df27793f194d4ce33fc8d8223794d42e52ecd28ef77cfaea9c5&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1068,7 +1575,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685350224,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;75b81610-6d64-4823-9dd5-e8831995970a&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;96310cef7f47f51320ed6e03472f026f535074c76940ca81ba8f2130b73df448&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685350224,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;4136181c-1e4b-4f30-a785-3d045389bd93&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;32c47ae95b32671161557f493eb082d761e5aa5ce0c860b3e7c0fa7605a5f669&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1122,7 +1629,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685334162,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;9821ad5f-103f-4134-b571-e5605dbd0c43&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;442b808acb4469ce3fd5d35def4f7dfe20d0f19b611c2d4ab463a571cf6fbd90&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685334162,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;37efb568-35c1-4438-b642-1b3d76629488&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;d1ea78986b04ad8bc57403d20415991b988bbed950dd4676e520d2421c468e1a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1176,7 +1683,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685310900,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;2e4bd8f3-ec69-4f44-8904-965d529ed416&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;47ba64bd7f5a96fc8fd64ef7c46bef78c5236c4e12661cb7d1f7129b79a28ef0&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685310900,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;356d2440-291c-4c42-9357-046cf312a416&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;69cebbd8abb9c98b640e99b973fa59760623d03c7e0103f25f80dc48f2a5790a&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -1215,518 +1722,6 @@
           &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35685304382</id>
-    <published>2024-02-14T21:43:58Z</published>
-    <updated>2024-02-14T21:43:58Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/matiassingers/awesome-readme"/>
-    <title type="html">gabesamu starred matiassingers/awesome-readme</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:29456624,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685304382,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;64495597-552d-442c-a663-29e6e2cc6b27&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;ce3eaa0340ac57bc3d948d91b0c278762b423d1a874e129454f0de1ebc3827f6&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/matiassingers/awesome-readme&quot; rel=&quot;noreferrer&quot;&gt;matiassingers/awesome-readme&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-02-14T21:43:58Z&quot; data-view-component=&quot;true&quot;&gt;February 14, 2024 21:43&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/matiassingers/awesome-readme&quot; rel=&quot;noreferrer&quot;&gt;matiassingers/awesome-readme&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;A curated list of awesome READMEs&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/matiassingers/awesome-readme/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;16.7k&lt;/a&gt;
-              &lt;/span&gt;
-
-              &lt;span class=&quot;mr-3&quot;&gt;
-                &lt;a class=&quot;Link--muted&quot; href=&quot;/matiassingers/awesome-readme/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;1 issue needs help&lt;/a&gt;
-              &lt;/span&gt;
-
-              &lt;span&gt;Updated Mar 14&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:CreateEvent/35685289064</id>
-    <published>2024-02-14T21:43:16Z</published>
-    <updated>2024-02-14T21:43:16Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/github-final-project/compare/main"/>
-    <title type="html">gabesamu created a branch main in gabesamu/github-final-project</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685289064,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;560f04b3-c389-4704-8313-172f90fb61b0&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;f21acc166f4cae1e67eda4882aafe323f2228b93c73247d20d50e13b5e4918bc&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-              
-              created a
-              branch
-              in
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/github-final-project&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/github-final-project&lt;/a&gt;
-
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-02-14T21:43:16Z&quot; data-view-component=&quot;true&quot;&gt;February 14, 2024 21:43&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;div class=&quot;d-inline-block&quot;&gt;
-            &lt;div class=&quot;d-flex&quot;&gt;
-              &lt;div class=&quot;mr-2&quot;&gt;
-                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
-              &lt;/div&gt;
-                  &lt;div class=&quot;d-inline-block&quot;&gt;
-                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;main&quot; href=&quot;/gabesamu/github-final-project/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/github-final-project&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/github-final-project&lt;/a&gt;
-                  &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-            &lt;span&gt;Updated Feb 14&lt;/span&gt;
-          &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:CreateEvent/35685288557</id>
-    <published>2024-02-14T21:43:15Z</published>
-    <updated>2024-02-14T21:43:15Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/gabesamu/github-final-project//"/>
-    <title type="html">gabesamu created a repository gabesamu/github-final-project</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:757736343,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35685288557,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;f80307d7-1449-4c9f-860b-588e86eee190&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;46a039eb49880fb01f6c20ade1fcdcafada9819e783dd373f12d7f6d28f3073f&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-              
-              created a
-              repository
-              
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu/github-final-project&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/github-final-project&lt;/a&gt;
-
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-02-14T21:43:15Z&quot; data-view-component=&quot;true&quot;&gt;February 14, 2024 21:43&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;div class=&quot;d-inline-block&quot;&gt;
-            &lt;div class=&quot;d-flex&quot;&gt;
-              &lt;div class=&quot;mr-2&quot;&gt;
-                &lt;a class=&quot;d-flex&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/87041623?s=40&amp;amp;v=4&quot; alt=&quot;@gabesamu&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
-              &lt;/div&gt;
-                  &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/gabesamu/github-final-project&quot; rel=&quot;noreferrer&quot;&gt;gabesamu/github-final-project&lt;/a&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-            &lt;span&gt;Updated Feb 14&lt;/span&gt;
-          &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35564843274</id>
-    <published>2024-02-10T03:09:24Z</published>
-    <updated>2024-02-10T03:09:24Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/slint-ui/slint"/>
-    <title type="html">gabesamu starred slint-ui/slint</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:261124045,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35564843274,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;2efa9a14-800f-4647-9903-44080df49c62&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;f1225d5a9c4cc4258c968b29a09912e530d2eb4c7bcd3d7995f6faeac5ceeda8&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/slint-ui/slint&quot; rel=&quot;noreferrer&quot;&gt;slint-ui/slint&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-02-10T03:09:24Z&quot; data-view-component=&quot;true&quot;&gt;February 10, 2024 03:09&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/slint-ui/slint&quot; rel=&quot;noreferrer&quot;&gt;slint-ui/slint&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
-                &lt;span class=&quot;ml-0&quot;&gt;
-  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #dea584&quot;&gt;&lt;/span&gt;
-  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;Rust&lt;/span&gt;
-&lt;/span&gt;
-
-              &lt;/span&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/slint-ui/slint/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;14.4k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Mar 18&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35260276253</id>
-    <published>2024-01-31T00:57:47Z</published>
-    <updated>2024-01-31T00:57:47Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/stas00/ml-engineering"/>
-    <title type="html">gabesamu starred stas00/ml-engineering</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:292374787,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35260276253,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;462ee567-5710-42e7-9e60-8b251313b0c1&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;69e19ddebadc6a0f889da0505ab5449ac21f251ee909b97a56aa810d7073e6e7&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/stas00/ml-engineering&quot; rel=&quot;noreferrer&quot;&gt;stas00/ml-engineering&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-01-31T00:57:47Z&quot; data-view-component=&quot;true&quot;&gt;January 31, 2024 00:57&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/stas00/ml-engineering&quot; rel=&quot;noreferrer&quot;&gt;stas00/ml-engineering&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;Machine Learning Engineering Open Book&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
-                &lt;span class=&quot;ml-0&quot;&gt;
-  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #3572A5&quot;&gt;&lt;/span&gt;
-  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;Python&lt;/span&gt;
-&lt;/span&gt;
-
-              &lt;/span&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/stas00/ml-engineering/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;9k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Mar 18&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35260155170</id>
-    <published>2024-01-31T00:50:33Z</published>
-    <updated>2024-01-31T00:50:33Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/ByteByteGoHq/system-design-101"/>
-    <title type="html">gabesamu starred ByteByteGoHq/system-design-101</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:693342566,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35260155170,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;1011dbe5-fef6-4700-9de9-a201ff4e2727&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;c1ab2b8a433f52f2bec9cb47fead732fbb9e4a962adeea2b0cc9bc9ff170cd4c&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/ByteByteGoHq/system-design-101&quot; rel=&quot;noreferrer&quot;&gt;ByteByteGoHq/system-design-101&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-01-31T00:50:33Z&quot; data-view-component=&quot;true&quot;&gt;January 31, 2024 00:50&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/ByteByteGoHq/system-design-101&quot; rel=&quot;noreferrer&quot;&gt;ByteByteGoHq/system-design-101&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/ByteByteGoHq/system-design-101/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;55.8k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Feb 4&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35259750381</id>
-    <published>2024-01-31T00:26:52Z</published>
-    <updated>2024-01-31T00:26:52Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/DataTalksClub/data-engineering-zoomcamp"/>
-    <title type="html">gabesamu starred DataTalksClub/data-engineering-zoomcamp</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:419661684,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35259750381,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;c574ee80-d601-43e8-9de2-6ecaebdcb426&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;2a5fc3012fbd868cf5553ab6b559b07dc57dc2c757ed28bca4175c49d849f1c4&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/DataTalksClub/data-engineering-zoomcamp&quot; rel=&quot;noreferrer&quot;&gt;DataTalksClub/data-engineering-zoomcamp&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-01-31T00:26:52Z&quot; data-view-component=&quot;true&quot;&gt;January 31, 2024 00:26&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/DataTalksClub/data-engineering-zoomcamp&quot; rel=&quot;noreferrer&quot;&gt;DataTalksClub/data-engineering-zoomcamp&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;Free Data Engineering course! &lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
-                &lt;span class=&quot;ml-0&quot;&gt;
-  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #DA5B0B&quot;&gt;&lt;/span&gt;
-  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;Jupyter Notebook&lt;/span&gt;
-&lt;/span&gt;
-
-              &lt;/span&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/DataTalksClub/data-engineering-zoomcamp/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;21.8k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Mar 18&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35259694375</id>
-    <published>2024-01-31T00:23:40Z</published>
-    <updated>2024-01-31T00:23:40Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity"/>
-    <title type="html">gabesamu starred farhanashrafdev/90DaysOfCyberSecurity</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:591975136,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35259694375,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;0c66a43e-04ff-4671-a78c-e9fb55312603&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;bd82d0220b78eef1e27432f49d861232204a94b25ebfff5d2466816e0ad04eb7&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/farhanashrafdev/90DaysOfCyberSecurity&quot; rel=&quot;noreferrer&quot;&gt;farhanashrafdev/90DaysOfCyberSecurity&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-01-31T00:23:40Z&quot; data-view-component=&quot;true&quot;&gt;January 31, 2024 00:23&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/farhanashrafdev/90DaysOfCyberSecurity&quot; rel=&quot;noreferrer&quot;&gt;farhanashrafdev/90DaysOfCyberSecurity&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and tech…&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/farhanashrafdev/90DaysOfCyberSecurity/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;5k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Nov 4, 2023&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:WatchEvent/35223557714</id>
-    <published>2024-01-30T00:57:58Z</published>
-    <updated>2024-01-30T00:57:58Z</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/KaisenAmin/c_std"/>
-    <title type="html">gabesamu starred KaisenAmin/c_std</title>
-    <author>
-      <name>gabesamu</name>
-      <uri>https://github.com/gabesamu</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:731972227,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:35223557714,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;fb3f9dab-0c33-4c54-9db1-fcb31f31bbc2&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;edd89f5266e93e0a3ca6627e0d87fafc0276b2bed780e62978ea100aab9cad34&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-              &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/87041623?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gabesamu&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gabesamu&quot; rel=&quot;noreferrer&quot;&gt;gabesamu&lt;/a&gt;
-            starred
-            &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/KaisenAmin/c_std&quot; rel=&quot;noreferrer&quot;&gt;KaisenAmin/c_std&lt;/a&gt;
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2024-01-30T00:57:58Z&quot; data-view-component=&quot;true&quot;&gt;January 30, 2024 00:57&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/KaisenAmin/c_std&quot; rel=&quot;noreferrer&quot;&gt;KaisenAmin/c_std&lt;/a&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 mb-0 repo-description&quot;&gt;
-            &lt;p&gt;Implementation of C++ standard libraries in C&lt;/p&gt;
-          &lt;/div&gt;
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span class=&quot;d-inline-block color-fg-muted mr-3&quot;&gt;
-                &lt;span class=&quot;ml-0&quot;&gt;
-  &lt;span class=&quot;repo-language-color&quot; style=&quot;background-color: #555555&quot;&gt;&lt;/span&gt;
-  &lt;span itemprop=&quot;programmingLanguage&quot;&gt;C&lt;/span&gt;
-&lt;/span&gt;
-
-              &lt;/span&gt;
-
-              &lt;span class=&quot;d-inline-block mr-3&quot;&gt;
-                  &lt;a class=&quot;Link--muted&quot; href=&quot;/KaisenAmin/c_std/stargazers&quot; rel=&quot;noreferrer&quot;&gt;&lt;svg class=&quot;octicon octicon-star mr-1&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;1k&lt;/a&gt;
-              &lt;/span&gt;
-
-
-              &lt;span&gt;Updated Mar 4&lt;/span&gt;
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</content>
