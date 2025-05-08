@@ -16,7 +16,7 @@
       <uri>https://github.com/gabesamu</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/87041623?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:33352201,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:49423416090,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;1f04db5b-2773-4bc9-9d58-712d8b22c35f&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;31dc671e598fc9d4dc54c47308e849c73a3505aa8346995d210702ff7e6b49d8&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+    <content type="html">&lt;div class=&quot;watch_started js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:33352201,&amp;quot;actor_id&amp;quot;:87041623,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;WatchEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:49423416090,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:null,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:null,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;6bd0dd06-372a-425e-b52e-459d15d94199&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/gabesamu.atom&amp;quot;}}&quot; data-hydro-view-hmac=&quot;9676ce353001da251000fdac9cf85c68370210606b22cfab0fbd19a6fbcb4702&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- watch --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
@@ -60,7 +60,7 @@
                 &lt;a class=&quot;Link--muted&quot; href=&quot;/grpc-ecosystem/grpc-gateway/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue&quot; rel=&quot;noreferrer&quot;&gt;71 issues need help&lt;/a&gt;
               &lt;/span&gt;
 
-              &lt;span&gt;Updated May 7&lt;/span&gt;
+              &lt;span&gt;Updated May 8&lt;/span&gt;
           &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
